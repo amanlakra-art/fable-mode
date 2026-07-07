@@ -1,4 +1,4 @@
-# fable-mode - Claude Code skill
+# fable-mode: Claude Code skill
 
 Makes any Claude model (Sonnet 5, Opus 4.8, Haiku) operate with Fable-class discipline: task-adaptive practice routing, verify loops, agent orchestration, adversarial self-checks, outcome-first communication.
 
